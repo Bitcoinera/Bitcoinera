@@ -1,24 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Bitcoinera/Bitcoinera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm a self-taught passionate Full-Stack developer from Spain 🇪🇸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
 
-Software engineer with over 2 years of experience coding in the Blockchain industry. Currently searching for new challenges (i.e. a job).
+- 👩 Software engineer with over 2 years of experience coding in the Blockchain industry. Currently searching for new challenges (i.e. job).
 
-Instead of making a flashy professional website I prefer to spend my time learning new things about smart contracts, blockchain, Javascript and coding in general, so this profile README will have to do it for now 😉
+- 💼 Searching... 😁
 
+- 🌱 I’m currently learning Solidity, Next.js and deepening my knowledge of React
+
+- ❤ I love Vue, React and NodeJS. I also love Bitcoin, Ethereum and the incredible world of Blockchain
+
+- 👯 I’m looking to collaborate on any blockchain project I find challenging and disrupting for the industry. And fun 🙌
+
+<br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
