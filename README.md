@@ -2,18 +2,18 @@
 
 <p align="right">
     <kbd>
-        <a href="https://www.linkedin.com/in/anagutjor/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <a href="https://www.linkedin.com/in/anagutjor/" >
+            <img style="width: 17vh; height: 2vw;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
     </kbd>
     <kbd>
-        <a href="https://www.twitter.com/Bitcoin3ra" target="_blank">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+        <a href="https://www.twitter.com/Bitcoin3ra">
+            <img style="width: 17vh; height: 2vw;" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
         </a>
     </kbd>
     <kbd>
-        <a href="mailto:satoshinakamoto@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:satoshinakamoto@gmail.com" />
+        <a href="mailto:satoshinakamoto@gmail.com">
+            <img style="width: 17vh; height: 2vw;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:satoshinakamoto@gmail.com" />
         </a>
     </kbd>
 </p>
