@@ -1,10 +1,21 @@
 <p align="center"><a href="https://Bitcoinera.github.io"><img width="50%" src="./assets/gh-readme-header.png" /></a></p>
 
-
 <p align="right">
- <a href="https://www.linkedin.com/in/anagutjor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 25px"/></a>
- <a href="https://www.twitter.com/Bitcoin3ra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 25px"/></a>
- <a href="mailto:satoshinakamoto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:satoshinakamoto@gmail.com" style="border-radius: 25px" /></a>
+    <kbd>
+        <a href="https://www.linkedin.com/in/anagutjor/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </kbd>
+    <kbd>
+        <a href="https://www.twitter.com/Bitcoin3ra" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+        </a>
+    </kbd>
+    <kbd>
+        <a href="mailto:satoshinakamoto@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:satoshinakamoto@gmail.com" />
+        </a>
+    </kbd>
 </p>
 
 <br />
