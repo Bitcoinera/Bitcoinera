@@ -47,9 +47,11 @@ I'm a self-taught passionate Full-Stack developer from Spain 🇪🇸
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
- 
-[![Bitcoinera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitcoinera&show_icons=true&theme=dark)](https://github.com/Bitcoinera)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bitcoinera&theme=dark)  
+[![Bitcoinera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitcoinera&show_icons=true&theme=tokyonight)](https://github.com/Bitcoinera)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitcoinera&langs_count=7&show_icons=true&theme=dark)](https://github.com/Bitcoinera)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bitcoinera&theme=algolia)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitcoinera&langs_count=7&show_icons=true&theme=tokyonight)](https://github.com/Bitcoinera)
+
+<a href="https://github.com/Bitcoinera"><img alt="Bitcoinera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bitcoinera&custom_title=Recent%20Activity&theme=react-dark" /></a>
