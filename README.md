@@ -2,11 +2,6 @@
 
 <p align="right">
     <kbd>
-        <a href="https://www.linkedin.com/in/anagutjor/" >
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-    </kbd>
-    <kbd>
         <a href="https://www.twitter.com/Bitcoin3ra">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
         </a>
@@ -20,7 +15,7 @@
 
 <br />
 
-I'm a self-taught passionate Full-Stack developer from Spain 🇪🇸 
+I'm a self-taught passionate Full-Stack developer
 
 **About me**
 
