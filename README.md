@@ -43,7 +43,6 @@ I'm a self-taught passionate Full-Stack developer
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
-[![Bitcoinera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitcoinera&show_icons=true&theme=tokyonight)](https://github.com/Bitcoinera)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bitcoinera&theme=algolia)  
 
